@@ -85,6 +85,7 @@ const Credit = styled.div`
 
 const FooterLink = styled(TransitionLink)`
   text-decoration: None;
+  padding: 0.4rem;
   color: inherit;
   display: block;
   font-size: 1.3rem;
